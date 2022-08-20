@@ -1,0 +1,53 @@
+# Copyright (C) 2022 SuperAdmin
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see .
+
+#
+# Generic
+#
+
+# Module label 'ModuleBudgetReportName'
+ModuleBudgetReportName = BudgetReport
+# Module description 'ModuleBudgetReportDesc'
+ModuleBudgetReportDesc = The Project's Budget Report is a convenient way to track your budget for each project.
+
+#
+# Admin page
+#
+BudgetReportSetup = BudgetReport Setup
+Settings = Settings
+BudgetReportSetupPage = BudgetReport setup page
+BUDGETREPORT_MYPARAM1 = My param 1
+BUDGETREPORT_MYPARAM1Tooltip = My param 1 tooltip
+BUDGETREPORT_MYPARAM2=My param 2
+BUDGETREPORT_MYPARAM2Tooltip=My param 2 tooltip
+
+
+#
+# About page
+#
+About = About
+BudgetReportAbout = About BudgetReport
+BudgetReportAboutPage = BudgetReport about page
+
+#
+# Sample page
+#
+BudgetReportArea = Project's Budget Report
+
+#
+# Sample widget
+#
+MyWidget = My widget
+MyWidgetDescription = My widget description
